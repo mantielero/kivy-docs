@@ -7,7 +7,7 @@ Introducción
 El objetivo es poder representar dos contenidos y mostrar uno y otro a voluntad.
 
 
-Un ejemplo sencillo (aunque lo complica un poco el hecho de usar Toolbars en lugar de botones) es:
+Un ejemplo sencillo (aunque lo complica un poco el hecho de usar Toolbars en lugar de botones) es::
 
   #!/usr/bin/env python
   # -*- coding: utf-8 -*-

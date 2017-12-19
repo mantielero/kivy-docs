@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Kivy'
-copyright = '2017, José María García Pérez'
-author = 'José María García Pérez'
+copyright = '2017, Jose Maria Garcia Perez'
+author = 'Jose Maria Garcia Perez'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -140,7 +140,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Kivy.tex', 'Kivy Documentation',
-     'José María García Pérez', 'manual'),
+     u'Jose Maria Garcia Perez', 'manual'),
 ]
 
 
@@ -164,6 +164,3 @@ texinfo_documents = [
      author, 'Kivy', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-

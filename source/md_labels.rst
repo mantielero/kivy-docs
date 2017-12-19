@@ -30,7 +30,8 @@ Para el color:
 - Secondary
 - Hint
 - Error
-- o::
+
+o::
 
   theme_text_color: 'Custom'
   text_color: (0,1,0,.4)
